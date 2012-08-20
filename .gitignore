@@ -1,0 +1,5 @@
+bin/
+
+# Package Files #
+*.war
+*.ear
